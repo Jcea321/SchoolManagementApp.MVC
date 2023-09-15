@@ -1,3 +1,5 @@
+using System.ComponentModel.DataAnnotations;
+
 namespace SchoolManagementApp.MVC.Models;
 
 public class ErrorViewModel
